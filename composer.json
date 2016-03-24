@@ -1,0 +1,11 @@
+{
+  "name": "tebe/node",
+  "description": "A simple node class representing a tree node.",
+  "keywords": ["php", "tree", "node"],
+  "license": "BSD-3-Clause",
+  "autoload": {
+    "psr-4": {
+      "Tebe\\": "src/"
+    }
+  }
+}
